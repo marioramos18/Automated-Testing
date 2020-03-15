@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="becd61be-5d0d-46e2-b8e6-68f21b4a84bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z5gizQQjM1XIcnurbsuUnHMo8p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioCheesecake-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.loginFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioCheesecake-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Tests" />
+      <option name="METHOD_NAME" value="loginFailure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.loginSucess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioCheesecake-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Tests" />
+      <option name="METHOD_NAME" value="loginSucess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.messageNoArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioCheesecake-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Tests" />
+      <option name="METHOD_NAME" value="messageNoArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.navigationCategories" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioCheesecake-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Tests" />
+      <option name="METHOD_NAME" value="navigationCategories" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests.messageNoArticle" />
+        <item itemvalue="JUnit.Tests.navigationCategories" />
+        <item itemvalue="JUnit.Tests.loginFailure" />
+        <item itemvalue="JUnit.Tests.loginSucess" />
+        <item itemvalue="JUnit.Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="becd61be-5d0d-46e2-b8e6-68f21b4a84bb" name="Default Changelist" comment="" />
+      <created>1584134499874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584134499874</updated>
+      <workItem from="1584134522903" duration="4730000" />
+      <workItem from="1584141556639" duration="753000" />
+      <workItem from="1584144137042" duration="2323000" />
+      <workItem from="1584156436786" duration="559000" />
+      <workItem from="1584183364614" duration="19477000" />
+      <workItem from="1584274057336" duration="7910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="138" width="1146" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584195575314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="121" y="138" width="1146" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1584195575314" />
+    <state x="474" y="108" key="FileChooserDialogImpl" timestamp="1584282378367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584282378367" />
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1584282171623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584282171623" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1584282171623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584282171623" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1584282171618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584282171618" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1584282171623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584282171623" />
+    <state x="224" y="37" key="Maven.ArtifactSearchDialog" timestamp="1584212353541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="224" y="37" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1584212353541" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1584280328208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584280328208" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584274132071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584274132071" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584137256347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1584137256347" />
+  </component>
+</project>
